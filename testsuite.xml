@@ -2,7 +2,7 @@
 <suite name="Suite1" verbose="6">
     <test name="sss">
         <classes>
-            <class name="DB.CartTest"/>
+            <class name="API.CartApiTest "/>
         </classes>
     </test>
 </suite>
